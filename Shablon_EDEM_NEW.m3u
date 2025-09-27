@@ -110,7 +110,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2417/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1767.png" tvg-rec="7",ТНТ HD
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/237/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/353.png" tvg-rec="7",ТНТ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/353.png" tvg-rec="0",ТНТ
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/502/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/353.png" tvg-rec="0",ТНТ +2
@@ -209,7 +209,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6045/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2765.png" tvg-rec="3",Пятница! HD
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/5031/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1003.png" tvg-rec="7",Пятница!
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1003.png" tvg-rec="0",Пятница!
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/503/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1003.png" tvg-rec="0",Пятница! +2
@@ -293,7 +293,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2078/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2463.png" tvg-rec="7",Загородный
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2099/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2469.png" tvg-rec="7",Три ангела
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2469.png" tvg-rec="3",Три ангела
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2116/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2464.png" tvg-rec="7",БСТ
@@ -305,10 +305,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/2147/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2465.png" tvg-rec="7",ЛДПР ТВ
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2110/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2478.png" tvg-rec="0",Хузур ТВ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2478.png" tvg-rec="7",Хузур ТВ
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2150/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2399.png" tvg-rec="7",Дождь
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2399.png" tvg-rec="0",Дождь
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2030/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2130.png" tvg-rec="0",GNC HD
@@ -317,7 +317,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/955/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2398.png" tvg-rec="7",Вместе-РФ
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/2073/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/187.png" tvg-rec="7",Россия К
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/187.png" tvg-rec="0",Россия К
 #EXTGRP:Общие
 domen_name/iptv/XXXXXXXXXXXXXX/505/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1676.png" tvg-rec="3",E TV HD
@@ -938,7 +938,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2008/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2400.png" tvg-rec="7",Центральное телевидение
 #EXTGRP:Новостные
 domen_name/iptv/XXXXXXXXXXXXXX/2064/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/921.png" tvg-rec="7",NHK World HD JP
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/921.png" tvg-rec="0",NHK World HD JP
 #EXTGRP:Новостные
 domen_name/iptv/XXXXXXXXXXXXXX/729/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/743.png" tvg-rec="3",РБК orig
@@ -1106,13 +1106,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/108/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/917.png" tvg-rec="7",Nick Jr
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/114/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2481.png" tvg-rec="7",СТС Kids HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2481.png" tvg-rec="0",СТС Kids HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/2001/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/810.png" tvg-rec="7",Gulli Girl
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/109/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/423.png" tvg-rec="7",Nickelodeon
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/423.png" tvg-rec="0",Nickelodeon
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/541/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/923.png" tvg-rec="7",Детский мир
@@ -1130,7 +1130,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/156/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2011.png" tvg-rec="7",Ani
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/129/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1332.png" tvg-rec="7",Мульт
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1332.png" tvg-rec="0",Мульт
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/909/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/929.png" tvg-rec="7",Cartoonito
@@ -1148,13 +1148,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/737/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/740.png" tvg-rec="0",Карусель +3
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/740/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/284.png" tvg-rec="7",Мультимузыка
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/284.png" tvg-rec="0",Мультимузыка
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/749/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2156.png" tvg-rec="0",Duck TV HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/1031/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2436.png" tvg-rec="7",Baby TV
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2436.png" tvg-rec="0",Baby TV
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/2084/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/410.png" tvg-rec="0",Da Vinci orig
@@ -1187,7 +1187,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2157/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2757.png" tvg-rec="3",Мультиландия
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/5055/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1332.png" tvg-rec="7",Мульт HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1332.png" tvg-rec="0",Мульт HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/921/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/423.png" tvg-rec="3",Nickelodeon HD orig
@@ -1271,22 +1271,22 @@ domen_name/iptv/XXXXXXXXXXXXXX/9262/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2027.png" tvg-rec="3",В гостях у сказки orig
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/9263/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4728.png" tvg-rec="0",CineMan Cartoons 90
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4728.png" tvg-rec="7",CineMan Cartoons 90
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/11001/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4729.png" tvg-rec="0",CineMan Cartoons Short
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4729.png" tvg-rec="7",CineMan Cartoons Short
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/11002/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4756.png" tvg-rec="0",BCU Kids HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4756.png" tvg-rec="7",BCU Kids HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/11035/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4757.png" tvg-rec="0",BCU Kids+ HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4757.png" tvg-rec="7",BCU Kids+ HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/11036/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/6185.png" tvg-rec="0",BCU Kids 4K
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/17023/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4774.png" tvg-rec="0",StrahTV Весёлая Карусель HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4774.png" tvg-rec="7",StrahTV Весёлая Карусель HD
 #EXTGRP:Детские
 domen_name/iptv/XXXXXXXXXXXXXX/11057/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4790.png" tvg-rec="0",VF VHS Cartoon
@@ -1391,7 +1391,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2336/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2471.png" tvg-rec="3",РЖД ТВ
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/9118/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9078.png" tvg-rec="0",Конгресс ТВ HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9078.png" tvg-rec="3",Конгресс ТВ HD
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2176/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9080.png" tvg-rec="0",Арт
@@ -1640,7 +1640,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2089/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/675.png" tvg-rec="7",Моя Планета HD
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2090/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2311.png" tvg-rec="7",Приключения HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2311.png" tvg-rec="0",Приключения HD
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/920/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2508.png" tvg-rec="7",Глазами Туриста HD
@@ -1661,7 +1661,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2005/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2627.png" tvg-rec="0",Диалоги о рыбалке
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2394/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2513.png" tvg-rec="7",Загородный int HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2513.png" tvg-rec="0",Загородный int HD
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2124/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2507.png" tvg-rec="7",Investigation Discovery HD
@@ -1718,7 +1718,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/736/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2304.png" tvg-rec="7",Телекафе
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/865/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/434.png" tvg-rec="7",Усадьба
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/434.png" tvg-rec="0",Усадьба
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/532/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2155.png" tvg-rec="0",English Club TV
@@ -1733,13 +1733,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/1052/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7642.png" tvg-rec="7",History FHD
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/837/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2280.png" tvg-rec="3",RTG TV
-#EXTGRP:Познавательные
-domen_name/iptv/XXXXXXXXXXXXXX/841/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2283.png" tvg-rec="7",Дикий
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/847/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1035.png" tvg-rec="7",Travel+Adventure
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1035.png" tvg-rec="0",Travel+Adventure
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/850/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2350.png" tvg-rec="7",Поехали!
@@ -1775,7 +1772,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2085/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2430.png" tvg-rec="7",Оружие
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2087/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2431.png" tvg-rec="7",Зоо ТВ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2431.png" tvg-rec="0",Зоо ТВ
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2100/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2432.png" tvg-rec="7",Живая Планета
@@ -1784,7 +1781,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2101/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2433.png" tvg-rec="7",Наша Тема
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2118/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2434.png" tvg-rec="0",Пёс и Ко
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2434.png" tvg-rec="7",Пёс и Ко
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2123/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2383.png" tvg-rec="0",Fashion & Lifestyle FHD
@@ -1796,7 +1793,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/1068/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2444.png" tvg-rec="7",Мужской
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/2047/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/410.png" tvg-rec="0",Da Vinci
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/410.png" tvg-rec="7",Da Vinci
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/537/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/618.png" tvg-rec="7",Мама
@@ -1811,7 +1808,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/743/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2292.png" tvg-rec="7",Первый Вегетарианский
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/833/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2298.png" tvg-rec="7",Загородная Жизнь
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2298.png" tvg-rec="0",Загородная Жизнь
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/852/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2467.png" tvg-rec="7",Кто Куда
@@ -1823,7 +1820,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/5047/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2761.png" tvg-rec="3",Калейдоскоп ТВ
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/5037/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1036.png" tvg-rec="7",История
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1036.png" tvg-rec="0",История
 #EXTGRP:Познавательные
 domen_name/iptv/XXXXXXXXXXXXXX/111/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/675.png" tvg-rec="7",Моя Планета
@@ -2315,7 +2312,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/914/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2018.png" tvg-rec="7",Наше HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/915/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2509.png" tvg-rec="0",Любимое HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2509.png" tvg-rec="7",Любимое HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/2106/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
@@ -2399,7 +2396,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/131/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/542.png" tvg-rec="7",Кинохит
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/516/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2492.png" tvg-rec="7",Amedia 2
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2492.png" tvg-rec="0",Amedia 2
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/510/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/485.png" tvg-rec="7",Наше Новое Кино
@@ -2432,7 +2429,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/553/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/834.png" tvg-rec="7",Дом Кино
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/154/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1371.png" tvg-rec="3",Amedia 1
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1371.png" tvg-rec="7",Amedia 1
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/554/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1372.png" tvg-rec="7",Amedia Premium
@@ -2441,7 +2438,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/555/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2007.png" tvg-rec="7",Amedia Hit
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/556/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/127.png" tvg-rec="3",Viju TV1000
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/127.png" tvg-rec="0",Viju TV1000
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/132/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1584.png" tvg-rec="7",Мужское Кино
@@ -2507,7 +2504,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/856/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2402.png" tvg-rec="7",Ретро
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/2018/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2403.png" tvg-rec="7",Иллюзион+
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2403.png" tvg-rec="3",Иллюзион+
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/2038/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2404.png" tvg-rec="7",Феникс плюс Кино
@@ -2522,7 +2519,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2121/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2754.png" tvg-rec="3",Cinema
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/5051/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/920.png" tvg-rec="7",Comedy Central
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/920.png" tvg-rec="0",Comedy Central
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/157/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2952.png" tvg-rec="3",Зал 1
@@ -2603,7 +2600,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/9022/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2493.png" tvg-rec="3",Киноужас HD orig
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/9033/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/311.png" tvg-rec="0",.red HD orig
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/311.png" tvg-rec="3",.red HD orig
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/9035/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/401.png" tvg-rec="3",Русский роман HD orig
@@ -2921,34 +2918,34 @@ domen_name/iptv/XXXXXXXXXXXXXX/10060/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/431.png" tvg-rec="0",Shot TV
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/526/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4683.png" tvg-rec="0",CineMan Top
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4683.png" tvg-rec="7",CineMan Top
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11005/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4684.png" tvg-rec="0",CineMan Action
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4684.png" tvg-rec="7",CineMan Action
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11006/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4685.png" tvg-rec="0",CineMan Thriller
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4685.png" tvg-rec="7",CineMan Thriller
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11007/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4686.png" tvg-rec="0",CineMan Мелодрама
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4686.png" tvg-rec="7",CineMan Мелодрама
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11008/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4687.png" tvg-rec="0",CineMan Marvel
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4687.png" tvg-rec="7",CineMan Marvel
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11009/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4688.png" tvg-rec="0",CineMan Ужасы
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4688.png" tvg-rec="7",CineMan Ужасы
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11010/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4689.png" tvg-rec="0",CineMan Комедия
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4689.png" tvg-rec="7",CineMan Комедия
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11011/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4690.png" tvg-rec="0",CineMan VHS
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4690.png" tvg-rec="7",CineMan VHS
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11012/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4691.png" tvg-rec="0",CineMan РуКино
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4691.png" tvg-rec="7",CineMan РуКино
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11013/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4692.png" tvg-rec="0",CineMan Сваты
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11014/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы
@@ -2966,73 +2963,73 @@ domen_name/iptv/XXXXXXXXXXXXXX/16065/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7150.png" tvg-rec="0",CineMan MiniSeries
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/19437/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4736.png" tvg-rec="0",BCU Premiere 1 HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4736.png" tvg-rec="7",BCU Premiere 1 HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11015/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4737.png" tvg-rec="0",BCU Premiere 2 HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4737.png" tvg-rec="7",BCU Premiere 2 HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11016/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4738.png" tvg-rec="0",BCU Premiere 3 HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4738.png" tvg-rec="7",BCU Premiere 3 HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11017/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4747.png" tvg-rec="0",BCU СССР HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4747.png" tvg-rec="7",BCU СССР HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11026/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4748.png" tvg-rec="0",BCU Action HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11027/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4749.png" tvg-rec="0",BCU Catastrophe HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11028/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4750.png" tvg-rec="0",BCU Cinema HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4750.png" tvg-rec="7",BCU Cinema HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11029/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4751.png" tvg-rec="0",BCU Cinema+ HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11030/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/8963.png" tvg-rec="0",BCU Comedy HDR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11031/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4753.png" tvg-rec="0",BCU Fantastic HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11032/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4755.png" tvg-rec="0",BCU History HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4755.png" tvg-rec="7",BCU History HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11034/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4758.png" tvg-rec="0",BCU Kinorating HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11037/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/8964.png" tvg-rec="0",BCU Marvel HDR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11038/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4760.png" tvg-rec="0",BCU Premiere HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11039/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4761.png" tvg-rec="0",BCU Romantic HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11040/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4762.png" tvg-rec="0",BCU Russian HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11041/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4763.png" tvg-rec="0",BCU VHS HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4763.png" tvg-rec="7",BCU VHS HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11042/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4764.png" tvg-rec="0",BCU Media HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4764.png" tvg-rec="7",BCU Media HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11043/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4765.png" tvg-rec="0",BCU Stars HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4765.png" tvg-rec="7",BCU Stars HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11044/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4766.png" tvg-rec="0",BCU Ultra 4K
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11045/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4767.png" tvg-rec="0",BCU RuSerial HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11046/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4768.png" tvg-rec="0",BCU Сваты HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11047/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4769.png" tvg-rec="0",BCU Criminal HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11048/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
@@ -3068,7 +3065,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/17054/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4761.png" tvg-rec="0",BCU Romantic OLD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/18052/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4778.png" tvg-rec="0",StrahTV Космо HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD
 #EXTGRP:Кино
 domen_name/iptv/XXXXXXXXXXXXXX/11065/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5462.png" tvg-rec="0",PG VHS HD
@@ -4640,13 +4637,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/272/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/6860.png" tvg-rec="3",Setanta Sports+ FHD UA
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/5068/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2055.png" tvg-rec="7",Viju+ Sport HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2055.png" tvg-rec="0",Viju+ Sport HD
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/2007/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2055.png" tvg-rec="3",Viju+ Sport HD orig
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/5065/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2821.png" tvg-rec="3",ViaPlay Football SE
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2821.png" tvg-rec="0",ViaPlay Football SE
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/5078/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2480.png" tvg-rec="3",Удар HD orig
@@ -4658,7 +4655,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2000/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2243.png" tvg-rec="0",Xsport HD UA
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/996/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2243.png" tvg-rec="3",Xsport HD UA orig
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2243.png" tvg-rec="0",Xsport HD UA orig
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/5077/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2803.png" tvg-rec="3",Russian Extreme UHD
@@ -4679,10 +4676,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/519/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2362.png" tvg-rec="0",Fast & Fun Box HD
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/1018/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2053.png" tvg-rec="7",Extreme Sports
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2053.png" tvg-rec="0",Extreme Sports
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/144/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2055.png" tvg-rec="7",Viju+ Sport
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2055.png" tvg-rec="0",Viju+ Sport
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/160/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9679.png" tvg-rec="0",Quest Red HD UK
@@ -4694,7 +4691,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/843/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2285.png" tvg-rec="7",Бокс ТВ
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/870/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2530.png" tvg-rec="0",Старт FHD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2530.png" tvg-rec="7",Старт FHD
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/2154/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2782.png" tvg-rec="3",Футбол
@@ -4805,7 +4802,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/10057/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4679.png" tvg-rec="7",Мяч HD
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/10058/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4656.png" tvg-rec="0",Sky Sport F1 FHD DE
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4656.png" tvg-rec="7",Sky Sport F1 FHD DE
 #EXTGRP:Спорт
 domen_name/iptv/XXXXXXXXXXXXXX/10079/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5881.png" tvg-rec="0",Живи Активно HD
@@ -5300,7 +5297,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/221/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/165.png" tvg-rec="7",Жара HD
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/2129/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/165.png" tvg-rec="7",Жара
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/165.png" tvg-rec="0",Жара
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/105/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/151.png" tvg-rec="7",Bridge TV
@@ -5327,22 +5324,22 @@ domen_name/iptv/XXXXXXXXXXXXXX/116/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/1723.png" tvg-rec="7",MTV Hits
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/153/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/715.png" tvg-rec="7",Музыка Первого
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/715.png" tvg-rec="0",Музыка Первого
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/155/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/801.png" tvg-rec="7",Mezzo Live HD
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/208/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1722.png" tvg-rec="7",MTV Club
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/1722.png" tvg-rec="0",MTV Club
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/558/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/575.png" tvg-rec="7",Mezzo
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/575.png" tvg-rec="0",Mezzo
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/707/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/680.png" tvg-rec="7",ТНТ Music
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/710/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2412.png" tvg-rec="7",о2тв HD
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2412.png" tvg-rec="0",о2тв HD
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/2141/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2353.png" tvg-rec="0",Vostok TV
@@ -5375,10 +5372,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/2144/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2410.png" tvg-rec="7",Курай ТВ
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/2061/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2412.png" tvg-rec="7",о2тв
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2412.png" tvg-rec="0",о2тв
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/2068/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2413.png" tvg-rec="3",МузСоюз
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2413.png" tvg-rec="7",МузСоюз
 #EXTGRP:Музыка
 domen_name/iptv/XXXXXXXXXXXXXX/2137/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2415.png" tvg-rec="7",Жар Птица
@@ -6224,7 +6221,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/5008/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9040.png" tvg-rec="0",Women`s Magazine HD
 #EXTGRP:Телемагазины
 domen_name/iptv/XXXXXXXXXXXXXX/20010/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2302.png" tvg-rec="7",Leomax 24
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2302.png" tvg-rec="0",Leomax 24
 #EXTGRP:Телемагазины
 domen_name/iptv/XXXXXXXXXXXXXX/861/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2428.png" tvg-rec="3",Nano orig
@@ -6905,13 +6902,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/6137/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2060.png" tvg-rec="3",H1 HD AM
 #EXTGRP:Армения
 domen_name/iptv/XXXXXXXXXXXXXX/601/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2061.png" tvg-rec="0",21TV HD AM
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2061.png" tvg-rec="3",21TV HD AM
 #EXTGRP:Армения
 domen_name/iptv/XXXXXXXXXXXXXX/602/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7866.png" tvg-rec="0",Delta TV AM
 #EXTGRP:Армения
 domen_name/iptv/XXXXXXXXXXXXXX/18214/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2062.png" tvg-rec="3",H2 HD AM
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2062.png" tvg-rec="0",H2 HD AM
 #EXTGRP:Армения
 domen_name/iptv/XXXXXXXXXXXXXX/603/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2064.png" tvg-rec="3",Armenia TV HD AM
@@ -7040,16 +7037,16 @@ domen_name/iptv/XXXXXXXXXXXXXX/15506/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7089.png" tvg-rec="0",Fast Sports HD AM
 #EXTGRP:Армения
 domen_name/iptv/XXXXXXXXXXXXXX/15507/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9147.png" tvg-rec="0",Muz TV AZ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9147.png" tvg-rec="3",Muz TV AZ
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2191/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2635.png" tvg-rec="3",ARB TV HD AZ
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2187/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9128.png" tvg-rec="3",ATV Cinema AZ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9128.png" tvg-rec="7",ATV Cinema AZ
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2120/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9764.png" tvg-rec="0",Premier Sports 2 HD UK
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9764.png" tvg-rec="7",Premier Sports 2 HD UK
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2069/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9130.png" tvg-rec="0",ATV Vivace AZ
@@ -7097,7 +7094,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2195/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2556.png" tvg-rec="3",CBC AZ
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2196/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2557.png" tvg-rec="3",Mədəniyyət TV AZ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2557.png" tvg-rec="0",Mədəniyyət TV AZ
 #EXTGRP:Азербайджан
 domen_name/iptv/XXXXXXXXXXXXXX/2197/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2637.png" tvg-rec="3",Idman TV AZ
@@ -7178,7 +7175,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/984/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 FHD UK
 #EXTGRP:Великобритания
 domen_name/iptv/XXXXXXXXXXXXXX/2505/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4575.png" tvg-rec="0",Sky Sports Racing HD 50 UK
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4575.png" tvg-rec="3",Sky Sports Racing HD 50 UK
 #EXTGRP:Великобритания
 domen_name/iptv/XXXXXXXXXXXXXX/9335/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4569.png" tvg-rec="3",Sky Sports Premier League HD 50 UK
@@ -7292,7 +7289,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2490/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2871.png" tvg-rec="3",Sky Krimi HD DE
 #EXTGRP:Германия
 domen_name/iptv/XXXXXXXXXXXXXX/2491/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2873.png" tvg-rec="3",Sky Arts HD DE
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2873.png" tvg-rec="0",Sky Arts HD DE
 #EXTGRP:Германия
 domen_name/iptv/XXXXXXXXXXXXXX/2494/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2877.png" tvg-rec="3",Sky Sport News HD DE
@@ -7991,7 +7988,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/7151/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/4272.png" tvg-rec="3",Ertsulovneba HD GE
 #EXTGRP:Грузия
 domen_name/iptv/XXXXXXXXXXXXXX/7152/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4273.png" tvg-rec="3",Formula HD GE
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/4273.png" tvg-rec="0",Formula HD GE
 #EXTGRP:Грузия
 domen_name/iptv/XXXXXXXXXXXXXX/7153/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/6798.png" tvg-rec="3",Girchi TV HD GE
@@ -8108,7 +8105,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2512/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2670.png" tvg-rec="0",Keshet 12 HD IL
 #EXTGRP:Израиль
 domen_name/iptv/XXXXXXXXXXXXXX/2329/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9056.png" tvg-rec="7",HOT Cinema Family HD IL
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9056.png" tvg-rec="0",HOT Cinema Family HD IL
 #EXTGRP:Израиль
 domen_name/iptv/XXXXXXXXXXXXXX/2151/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9035.png" tvg-rec="0",5Sport 4K IL
@@ -8120,9 +8117,6 @@ domen_name/iptv/XXXXXXXXXXXXXX/14220/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/9075.png" tvg-rec="0",Turkish Dramas 2 HD IL
 #EXTGRP:Израиль
 domen_name/iptv/XXXXXXXXXXXXXX/14208/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9076.png" tvg-rec="0",Turkish Dramas Plus HD IL
-#EXTGRP:Израиль
-domen_name/iptv/XXXXXXXXXXXXXX/14207/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2671.png" tvg-rec="0",Reshet 13 HD IL
 #EXTGRP:Израиль
 domen_name/iptv/XXXXXXXXXXXXXX/2330/index.m3u8
@@ -8621,12 +8615,6 @@ domen_name/iptv/XXXXXXXXXXXXXX/6730/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3544.png" tvg-rec="0",HUM Sitaray IN
 #EXTGRP:Индия
 domen_name/iptv/XXXXXXXXXXXXXX/6731/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3101.png" tvg-rec="0",M+ Deportes HD ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/6070/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9665.png" tvg-rec="0",M+ Cine ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/6078/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5088.png" tvg-rec="0",DAZN F1 ES
 #EXTGRP:Испания
 domen_name/iptv/XXXXXXXXXXXXXX/6071/index.m3u8
@@ -9674,7 +9662,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/19173/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/6621.png" tvg-rec="0",Eska TV PL
 #EXTGRP:Польша
 domen_name/iptv/XXXXXXXXXXXXXX/19174/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2909.png" tvg-rec="0",Sport TV 1 HD PT
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2909.png" tvg-rec="3",Sport TV 1 HD PT
 #EXTGRP:Португалия
 domen_name/iptv/XXXXXXXXXXXXXX/2525/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2910.png" tvg-rec="3",Sport TV 2 HD PT
@@ -9743,7 +9731,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6942/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3685.png" tvg-rec="3",TVR 3 RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6943/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3686.png" tvg-rec="3",TV1000 RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3686.png" tvg-rec="0",TV1000 RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6944/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7833.png" tvg-rec="3",Acasă Gold RO
@@ -9764,7 +9752,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6949/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3692.png" tvg-rec="3",AXN White RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6950/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3693.png" tvg-rec="3",Pro Cinema RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3693.png" tvg-rec="0",Pro Cinema RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6951/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3694.png" tvg-rec="3",AXN Black RO
@@ -9788,7 +9776,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6958/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3701.png" tvg-rec="3",Romania TV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6959/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3702.png" tvg-rec="3",Minimax RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3702.png" tvg-rec="0",Minimax RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6960/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3703.png" tvg-rec="3",JimJam RO
@@ -9800,7 +9788,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6962/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3705.png" tvg-rec="3",Music Channel RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6963/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3707.png" tvg-rec="3",Disney Channel RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3707.png" tvg-rec="0",Disney Channel RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6965/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3708.png" tvg-rec="3",Cartoon Network RO
@@ -9818,7 +9806,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6969/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5095.png" tvg-rec="3",TeenNick RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6971/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3714.png" tvg-rec="0",Nickelodeon RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3714.png" tvg-rec="3",Nickelodeon RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6972/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3715.png" tvg-rec="3",ZU TV RO
@@ -9836,7 +9824,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6978/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3721.png" tvg-rec="3",Favorit TV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6979/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3722.png" tvg-rec="3",Viasat History RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3722.png" tvg-rec="0",Viasat History RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6980/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3723.png" tvg-rec="3",Viasat Explore RO
@@ -9866,7 +9854,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6988/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/365.png" tvg-rec="3",Animal Planet HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6989/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/7836.png" tvg-rec="3",Pro Arena HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/7836.png" tvg-rec="0",Pro Arena HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6990/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3733.png" tvg-rec="3",National Geographic HD RO
@@ -9884,10 +9872,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/6995/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3738.png" tvg-rec="3",FilmBox Extra HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6996/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3739.png" tvg-rec="0",Pro TV RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3739.png" tvg-rec="3",Pro TV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6997/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3740.png" tvg-rec="3",TVR 1 HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3740.png" tvg-rec="0",TVR 1 HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/6998/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3741.png" tvg-rec="3",Film Now HD RO
@@ -9896,7 +9884,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6999/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3742.png" tvg-rec="3",TVR International HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7000/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3744.png" tvg-rec="3",Antena 1 HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3744.png" tvg-rec="0",Antena 1 HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7002/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3745.png" tvg-rec="3",Antena 3 CNN HD RO
@@ -9917,10 +9905,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/7007/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3696.png" tvg-rec="3",AXN HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7008/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3751.png" tvg-rec="0",DIGI 24 HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3751.png" tvg-rec="3",DIGI 24 HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7009/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3752.png" tvg-rec="3",Nat Geo Wild HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3752.png" tvg-rec="0",Nat Geo Wild HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7010/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3753.png" tvg-rec="3",Mezzo RO
@@ -9941,7 +9929,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/7016/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2856.png" tvg-rec="3",UTV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7017/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3760.png" tvg-rec="3",National Geographic RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3760.png" tvg-rec="0",National Geographic RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7018/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3763.png" tvg-rec="3",Nat Geo Wild RO
@@ -9956,7 +9944,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/7023/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3766.png" tvg-rec="3",Hora TV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7024/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3767.png" tvg-rec="3",Comedy Central RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3767.png" tvg-rec="0",Comedy Central RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7025/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7838.png" tvg-rec="3",MTV 00s RO
@@ -9968,7 +9956,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/7027/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3771.png" tvg-rec="3",HBO 2 RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7029/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3773.png" tvg-rec="3",MTV RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3773.png" tvg-rec="0",MTV RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7031/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3800.png" tvg-rec="3",BBC Earth HD RO
@@ -9980,7 +9968,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/7033/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3715.png" tvg-rec="3",ZU TV HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7034/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3777.png" tvg-rec="3",Happy Channel HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3777.png" tvg-rec="0",Happy Channel HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7035/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2856.png" tvg-rec="3",UTV HD RO
@@ -10031,10 +10019,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/7052/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3795.png" tvg-rec="3",CBS Reality RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7053/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3796.png" tvg-rec="3",Bollywood RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3796.png" tvg-rec="0",Bollywood RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7054/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3797.png" tvg-rec="0",Pro TV International RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3797.png" tvg-rec="3",Pro TV International RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7055/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3798.png" tvg-rec="3",Mooz Dance HD RO
@@ -10043,13 +10031,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/7056/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3799.png" tvg-rec="3",Epic Drama RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7057/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3800.png" tvg-rec="3",BBC Earth RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3800.png" tvg-rec="0",BBC Earth RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7058/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/7840.png" tvg-rec="3",Prima Sport 1 HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7059/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/7841.png" tvg-rec="0",Prima Sport 2 HD RO
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/7841.png" tvg-rec="3",Prima Sport 2 HD RO
 #EXTGRP:Румыния
 domen_name/iptv/XXXXXXXXXXXXXX/7060/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2994.png" tvg-rec="0",NickToons SE
@@ -10610,13 +10598,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/6766/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3829.png" tvg-rec="0",ER TV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6768/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3831.png" tvg-rec="3",DeHa TV TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3831.png" tvg-rec="0",DeHa TV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6771/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3832.png" tvg-rec="3",Ciftci TV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6772/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3833.png" tvg-rec="3",BRT 3 TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3833.png" tvg-rec="0",BRT 3 TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6774/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3834.png" tvg-rec="3",BRT 2 HD TR
@@ -10625,7 +10613,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6775/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3835.png" tvg-rec="3",BRTV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6776/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3836.png" tvg-rec="3",AS TV Bursa TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3836.png" tvg-rec="0",AS TV Bursa TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6777/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3837.png" tvg-rec="3",Anadolu Dernek TR
@@ -10649,7 +10637,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6787/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3848.png" tvg-rec="3",FM TV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6789/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3849.png" tvg-rec="3",Lalegul TV TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3849.png" tvg-rec="0",Lalegul TV TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6790/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3850.png" tvg-rec="3",TV 2000 TR
@@ -10790,13 +10778,13 @@ domen_name/iptv/XXXXXXXXXXXXXX/6855/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3911.png" tvg-rec="3",History HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6856/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3912.png" tvg-rec="3",Da Vinci HD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3912.png" tvg-rec="0",Da Vinci HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6857/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/365.png" tvg-rec="3",Animal Planet HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6858/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/365.png" tvg-rec="0",Animal Planet TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/365.png" tvg-rec="3",Animal Planet TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6859/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3915.png" tvg-rec="3",TGRT Belgesel TR
@@ -10856,7 +10844,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6882/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2598.png" tvg-rec="3",TRT 1 FHD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6883/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3939.png" tvg-rec="3",TRT 2 HD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3939.png" tvg-rec="0",TRT 2 HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6884/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3941.png" tvg-rec="3",ATV Avrupa TR
@@ -10898,7 +10886,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6904/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3958.png" tvg-rec="3",Kanal 7 Avrupa HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6905/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2668.png" tvg-rec="3",Beyaz TV FHD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2668.png" tvg-rec="0",Beyaz TV FHD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6906/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2668.png" tvg-rec="3",Beyaz TV TR
@@ -10934,10 +10922,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/6919/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3973.png" tvg-rec="3",TRT Eba TV Ortaokul HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6920/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3974.png" tvg-rec="3",TRT Haber HD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3974.png" tvg-rec="0",TRT Haber HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6921/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2589.png" tvg-rec="3",A Haber FHD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2589.png" tvg-rec="0",A Haber FHD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6923/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2601.png" tvg-rec="3",NTV FHD TR
@@ -10967,7 +10955,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/6934/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/3987.png" tvg-rec="3",TVNET HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6936/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3988.png" tvg-rec="3",A News HD TR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/3988.png" tvg-rec="0",A News HD TR
 #EXTGRP:Турция
 domen_name/iptv/XXXXXXXXXXXXXX/6937/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/5969.png" tvg-rec="0",Kanal V TR
@@ -11102,7 +11090,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/956/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2094.png" tvg-rec="3",EU Music HD UA
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/925/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2098.png" tvg-rec="3",Мега UA
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2098.png" tvg-rec="0",Мега UA
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/929/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2098.png" tvg-rec="0",Мега HD UA
@@ -11123,7 +11111,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/932/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2102.png" tvg-rec="0",Enter
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/15129/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2104.png" tvg-rec="3",Новий Канал UA
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2104.png" tvg-rec="0",Новий Канал UA
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/935/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2104.png" tvg-rec="0",Новий Канал HD UA
@@ -11204,7 +11192,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/1006/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2171.png" tvg-rec="3",ТЕТ UA
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/1009/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2210.png" tvg-rec="3",Сонце UA
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2210.png" tvg-rec="0",Сонце UA
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/1013/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2212.png" tvg-rec="3",Прямий HD UA
@@ -11540,7 +11528,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/31816/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/8921.png" tvg-rec="0",Kinowood HD
 #EXTGRP:Украина
 domen_name/iptv/XXXXXXXXXXXXXX/31817/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9504.png" tvg-rec="3",MTV Viihde HD FI
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/9504.png" tvg-rec="0",MTV Viihde HD FI
 #EXTGRP:Финляндия
 domen_name/iptv/XXXXXXXXXXXXXX/2541/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2884.png" tvg-rec="3",beIN Sports 1 HD FR
@@ -11576,7 +11564,7 @@ domen_name/iptv/XXXXXXXXXXXXXX/2500/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2886.png" tvg-rec="3",beIN Sports 3 HD FR
 #EXTGRP:Франция
 domen_name/iptv/XXXXXXXXXXXXXX/2501/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2887.png" tvg-rec="3",Canal+ Sport HD FR
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2887.png" tvg-rec="0",Canal+ Sport HD FR
 #EXTGRP:Франция
 domen_name/iptv/XXXXXXXXXXXXXX/2502/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2928.png" tvg-rec="3",Infosport+ HD FR
@@ -11651,10 +11639,10 @@ domen_name/iptv/XXXXXXXXXXXXXX/2551/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2939.png" tvg-rec="3",Nova Sport 1 HD CZ
 #EXTGRP:Чехия
 domen_name/iptv/XXXXXXXXXXXXXX/2555/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2940.png" tvg-rec="0",Nova Sport 2 HD CZ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2940.png" tvg-rec="3",Nova Sport 2 HD CZ
 #EXTGRP:Чехия
 domen_name/iptv/XXXXXXXXXXXXXX/2556/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2941.png" tvg-rec="0",Sport 2 HD CZ
+#EXTINF:0 tvg-logo="http://cdn.epg.one/img/2941.png" tvg-rec="3",Sport 2 HD CZ
 #EXTGRP:Чехия
 domen_name/iptv/XXXXXXXXXXXXXX/2557/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.epg.one/img/2942.png" tvg-rec="0",Sport 5 CZ
@@ -11912,21 +11900,6 @@ domen_name/iptv/XXXXXXXXXXXXXX/31644/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/7748.png" tvg-rec="0",Banana Fever
 #EXTGRP:Взрослые
 domen_name/iptv/XXXXXXXXXXXXXX/12168/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3101.png" tvg-rec="0",M+ Deportes ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/6077/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3105.png" tvg-rec="0",M+ LaLiga TV ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/6073/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3382.png" tvg-rec="3",M+ Acción ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/7065/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3383.png" tvg-rec="3",M+ Comedia ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/7066/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3384.png" tvg-rec="3",M+ Drama ES
-#EXTGRP:Испания
-domen_name/iptv/XXXXXXXXXXXXXX/7067/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/6464.png" tvg-rec="0",Rai Storia IT
 #EXTGRP:Италия
 domen_name/iptv/XXXXXXXXXXXXXX/19088/index.m3u8
@@ -11936,6 +11909,3 @@ domen_name/iptv/XXXXXXXXXXXXXX/6109/index.m3u8
 #EXTINF:0 tvg-logo="http://cdn.cdn.epg.one/img/3087.png" tvg-rec="0",Canal+ HD FR
 #EXTGRP:Франция
 domen_name/iptv/XXXXXXXXXXXXXX/6007/index.m3u8
-#EXTINF:0 tvg-logo="http://cdn.cdn.cdn.epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD DE
-#EXTGRP:Германия
-domen_name/iptv/XXXXXXXXXXXXXX/19043/index.m3u8
